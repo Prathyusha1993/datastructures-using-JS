@@ -1,0 +1,13 @@
+stacks and queues are array-like structures athat differ only in items sre inserted and remmoved.
+
+linkedlists, trees and graphs arestructures with nodes that keep referencec to other nodes.
+
+Hash tables depends on hash functions to save and locate data.t.
+
+
+in terms of complexity stacks and queue are somplest an can be constructed from linkedlists,
+trees and graphs are most complex becoz they extend th econcept of linked list.
+
+hash tales need to utilize these data structures to perform reliably.
+
+linked list are most optimal for recording and storing dtaa, while hashtables are most performant for searching and retrieing hte data.
